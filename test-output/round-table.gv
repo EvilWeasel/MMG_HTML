@@ -1,0 +1,6 @@
+// Mind Map for Scrum Master Certification
+digraph ScrumMasterCertification {
+	"Datentypen (für Nicht-Programmierer)"
+	"Funktionen in PowerApps"
+	"Datentypen (für Nicht-Programmierer)" -> "Funktionen in PowerApps"
+}
